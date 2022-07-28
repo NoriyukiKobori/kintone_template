@@ -1,1 +1,2 @@
 # kintone_template
+GAMENI練習に使用したkintoneアプリのテンプレートです！
